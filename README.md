@@ -21,7 +21,7 @@ https://rubenftgd.github.io/DeliveryDriver/
 
 ---
 
-**Image with player and tilemap**
+**Gameplay Screenshots**
 ======
 ![plot](./gameplay-images/image_1.png)
 
